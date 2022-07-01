@@ -1,0 +1,3 @@
+/Users/dnylpwqs/Documents/wet_4_comp/cmake-build-debug/CMakeFiles/wet_4_comp.dir
+/Users/dnylpwqs/Documents/wet_4_comp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dnylpwqs/Documents/wet_4_comp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
